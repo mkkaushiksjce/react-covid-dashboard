@@ -8,6 +8,7 @@ import "react-vis/dist/style.css";
 import Navbar from "./components/navbar/Navbar.js";
 import Barchart from "./components/barchart/Barchart.js";
 import Linechart from "./components/linechart/Linechart.js";
+import sidenavbar from "./components/sidenavbar/Sidenavbar.js";
 
 class App extends React.Component {
   constructor(props) {
@@ -20,10 +21,10 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <Navbar />
-        <h1>Mayaskara</h1>
-        {/* <Barchart />*/}
-        <Linechart />
+        {/*<Navbar />*/}
+        <div>Mayaskara</div>
+        {/* <Barchart /> <Linechart /> */}
+        <div />
       </div>
     );
   }
