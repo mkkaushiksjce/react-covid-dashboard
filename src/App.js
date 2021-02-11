@@ -10,6 +10,7 @@ import Barchart from "./components/barchart/Barchart.js";
 import Linechart from "./components/linechart/Linechart.js";
 import sidenavbar from "./components/sidenavbar/Sidenavbar.js";
 import Areachart from "./components/areachart/Areachart.js";
+import Donutchart from "./components/donutchart/Donutchart.js";
 
 // Map Imports
 
@@ -28,7 +29,7 @@ class App extends React.Component {
         <div>Mayaskara</div>
 
         <div>
-          <Areachart />
+          <Donutchart />
         </div>
       </div>
     );
