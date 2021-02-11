@@ -9,6 +9,9 @@ import Navbar from "./components/navbar/Navbar.js";
 import Barchart from "./components/barchart/Barchart.js";
 import Linechart from "./components/linechart/Linechart.js";
 import sidenavbar from "./components/sidenavbar/Sidenavbar.js";
+import Areachart from "./components/areachart/Areachart.js";
+
+// Map Imports
 
 class App extends React.Component {
   constructor(props) {
@@ -23,8 +26,10 @@ class App extends React.Component {
       <div>
         {/*<Navbar />*/}
         <div>Mayaskara</div>
-        {/* <Barchart /> <Linechart /> */}
-        <div />
+
+        <div>
+          <Areachart />
+        </div>
       </div>
     );
   }
