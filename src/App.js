@@ -5,13 +5,13 @@ import "./style.less";
 import "react-vis/dist/style.css";
 
 // Component Imports
-import Navbar from "./components/navbar/Navbar.js";
-import Barchart from "./components/barchart/Barchart.js";
-import Linechart from "./components/linechart/Linechart.js";
-import sidenavbar from "./components/sidenavbar/Sidenavbar.js";
-import Areachart from "./components/areachart/Areachart.js";
-import Donutchart from "./components/donutchart/Donutchart.js";
-import StackedBarchart from "./components/stackedbarchart/StackedBarchart.js";
+import Navbar from "/components/ubervis/navbar/Navbar.js";
+import Barchart from "./components/ubervis/barchart/Barchart.js";
+import Linechart from "./components/ubervis/linechart/Linechart.js";
+import sidenavbar from "./components/ubervis/sidenavbar/Sidenavbar.js";
+import Areachart from "./components/ubervis/areachart/Areachart.js";
+import Donutchart from "./components/ubervis/donutchart/Donutchart.js";
+import StackedBarchart from "./components/ubervis/stackedbarchart/StackedBarchart.js";
 
 // Map Imports
 

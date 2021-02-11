@@ -5,10 +5,12 @@
   "dependencies": {
     "@types/react": "^16.8.6 || ^17.0.0",
     "@visx/geo": "^1.0.0",
+    "@visx/scale": "^1.4.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "react-vis": "^1.11.7",
-    "recharts": "^2.0.4"
+    "recharts": "^2.0.4",
+    "topojson-client": "^3.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
