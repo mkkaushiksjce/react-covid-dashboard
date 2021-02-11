@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "../../style.less";
+import "../../../style.less";
 
 /* import "react-vis/dist/style.css"; */
 
