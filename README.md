@@ -12,4 +12,4 @@
 
 [Govt of Karnataka official Covid-19 Website](https://covid19.karnataka.gov.in/english)
 
-[Electricity Map](https://www.electricitymap.org/zone/IN-KA)
+[Electricity Map](https://www.electricitymap.org/zone/IN-KA){:target="_blank" rel="noopener"}
