@@ -15,3 +15,7 @@
 [Electricity Map](https://www.electricitymap.org/zone/IN-KA)
 
 [Ignite UI Showcase](https://www.infragistics.com/blazor-apps/usa-elections)
+
+[Am Charts Corona Dashboard](https://www.amcharts.com/demos/corona-virus-animated-dashboard/)
+
+[Am Charts Corona Dashboard](https://www.amcharts.com/demos/coronavirus-animated-dashboard-u-s/)
